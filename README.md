@@ -3,9 +3,9 @@
   <a href="https://github.com/HarshaSain/MyPortfolio" target="_blank">View My Portfolio Repository</a>
 </h2>
 
-<div align="center">
+<!-- <div align="center">
   <img alt="Portfolio Demo" src="./Images/readme-img1.png" />
-</div>
+</div> -->
 
 <br/>
 
