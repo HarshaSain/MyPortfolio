@@ -1,76 +1,110 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://harsha.vercel.app/" target="_blank">harsha.tech</a>
+  Harsha Sain — Personal Portfolio<br/>
+  <a href="https://github.com/HarshaSain/MyPortfolio" target="_blank">View My Portfolio Repository</a>
 </h2>
+
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Portfolio Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
 
-<center>
+<div align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/harsha4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/harsha4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![Built with React](https://img.shields.io/badge/Built%20with-React-blue?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![CSS3](https://img.shields.io/badge/Styled%20with-CSS3-blue?style=for-the-badge\&logo=css3)
+![GitHub Repo](https://img.shields.io/badge/GitHub-HarshaSain-black?style=for-the-badge\&logo=github)
 
-</center>
+</div>
 
 <h3 align="center">
-    🔹
-    <a href="https://github.com/harsha4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/harsha4419/Portfolio/issues">Request Feature</a>
+  <a href="https://github.com/HarshaSain">GitHub</a> &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/harsha-sain-8b0971230/">LinkedIn</a>
 </h3>
 
-## TL;DR
+## 👋 About Me
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Harsha4419](https://github.com/harsha4419/Portfolio). Thanks!
+Hi, I'm **Harsha Sain**, a Computer Science Engineering graduate interested in software development, backend engineering, and AI technologies.
 
-## Built With
+This repository contains my personal portfolio, where I showcase my technical skills, projects, and professional experience.
 
-My personal portfolio <a href="https://harsha.vercel.app/" target="_blank">harsha.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+I'm continuously learning, building projects, and improving my development skills.
 
-This project was built using these technologies.
+## 🛠️ Built With
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+This portfolio was built using the following technologies and tools:
 
-## Features
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap
+* Git and GitHub
+* Visual Studio Code
+* Vercel for deployment
 
-**📖 Multi-Page Layout**
+## ✨ Features
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+* 📖 Multi-page portfolio layout
+* 🎨 Responsive and customizable design
+* 💻 Technical skills and technology showcase
+* 🚀 Projects section highlighting my work
+* 📄 Resume section
+* 📱 Mobile-friendly interface
 
-**📱 Fully Responsive**
+## 🚀 Getting Started
 
-## Getting Started
+To run this project locally, you'll need **Node.js** and **Git** installed on your computer.
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+### Installation and Setup
 
-## 🛠 Installation and Setup Instructions
+**1. Clone the repository**
 
-1. Installation: `npm install`
+```bash
+git clone https://github.com/HarshaSain/MyPortfolio.git
+```
 
-2. In the project directory, you can run: `npm start`
+**2. Navigate to the project directory**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+```bash
+cd MyPortfolio
+```
 
-## Usage Instructions
+**3. Install dependencies**
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+```bash
+npm install
+```
 
-### Show your support
+**4. Start the development server**
 
-Give a ⭐ if you like this website!
+```bash
+npm start
+```
 
-<a href="https://www.buymeacoffee.com/harsha4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Open http://localhost:3000 in your browser to view the portfolio.
+
+The page will automatically reload when you make changes to the source code.
+
+## 📂 Project Structure
+
+The main application code is organized inside the `src` directory.
+
+* `src/components/` — Portfolio sections and reusable React components
+* `src/Assets/` — Images, icons, and other assets
+* `public/` — Public files and application metadata
+
+You can customize the components and assets to update the portfolio with your own information.
+
+## 🤝 Contributions
+
+This repository is my personal portfolio project. Feel free to explore the code and use it as inspiration for your own portfolio.
+
+## ⭐ Show Your Support
+
+If you like my work, consider giving this repository a star on GitHub!
+
+---
+
+**Made with ❤️ by Harsha Sain**
